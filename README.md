@@ -35,8 +35,8 @@ _Add screenshots or GIFs of your gameplay here to showcase your game._
 
 ## 🎮 Demo
 
-🔗 **Download the game here:** [Download Link](https://drive.google.com/drive/folders/1tDafpDNNlSbao_3NAAnA2wn0Xlb2cQVR?usp=sharing)  
-▶️ **Watch the gameplay demo:** [YouTube Demo Link](https://www.youtube.com/watch?v=Zr_aJaSxtB0)
+🔗 **Download the game here:** [Download](https://drive.google.com/drive/folders/1tDafpDNNlSbao_3NAAnA2wn0Xlb2cQVR?usp=sharing)  
+▶️ **Watch the gameplay demo:** [YouTube Demo](https://www.youtube.com/watch?v=Zr_aJaSxtB0)
 
 ## 💡 Inspiration
 
